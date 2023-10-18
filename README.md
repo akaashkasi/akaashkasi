@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I am Akaash Seemakurty! 👋
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[![LinkedIn](https://img.shields.io/badge/Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akaash-seemakurty/)
 
 
 <!--
