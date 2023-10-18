@@ -1,6 +1,7 @@
-### Hi, I am Akaash Seemakurty! 👋
+### Hi there, I am Akaash Seemakurty! 👋
 
 [![LinkedIn](https://img.shields.io/badge/Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akaash-seemakurty/)
+[![Email](https://img.shields.io/badge/Email-me-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akaash.seemakurty@gmail.com)
 
 
 <!--
